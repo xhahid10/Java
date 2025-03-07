@@ -17,7 +17,7 @@ public class Assignment1 {
 	  
 	  int z;
 	  z=x-y;
-	  System.out.println("The subtraction result is "+z);
+	  System.out.println("The subtraction result is"+z);
 	  return z;
   }
   
